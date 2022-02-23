@@ -1,0 +1,324 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Knight adventurer, or, The infamous and abominable history of that terrible, troublesome, and vain-glorious knight, Sir Firedrake shewing all the passages of his unvaliant, courageous, and knight-arrant-villainous feats of arms / translated by himself out of wilde-Irish into tame-English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47549</idno>
+            <idno type="STC">Wing K697</idno>
+            <idno type="STC">ESTC R24424</idno>
+            <idno type="EEBO-CITATION">08181017</idno>
+            <idno type="OCLC">ocm 08181017</idno>
+            <idno type="VID">41020</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47549)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41020)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1233:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Knight adventurer, or, The infamous and abominable history of that terrible, troublesome, and vain-glorious knight, Sir Firedrake shewing all the passages of his unvaliant, courageous, and knight-arrant-villainous feats of arms / translated by himself out of wilde-Irish into tame-English.</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>This being the 25th edition, and never twice before printed.</edition>
+               </editionStmt>
+               <extent>[2], 11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.I.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:41020:1"/>
+               <pb facs="tcp:41020:1"/>
+THE Knight Adventurer: OR, The Infamous and Abominable Hiſtory of that Terrible, Trouble<g ref="char:EOLhyphen"/>ſome and Vain-glorious Knight Sir FIREDRAKE: Shewing all the Paſſages of his Unvaliant, Couragious, and Knight-Arrant-Villainous Feats of Arms.</p>
+            <p>Tranſlated by himſelf out of <hi>Wilde-Iriſh,</hi> in<g ref="char:EOLhyphen"/>to <hi>Tame-Engliſh,</hi> becauſe hee did not underſtand the Language.</p>
+            <p>This being the 25th. Edition; and ne<g ref="char:EOLhyphen"/>ver twice before Printed.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. I.</hi> to be ſold at the <hi>Black-Spread Eagle</hi> and <hi>Sun</hi> in the <hi>Old-Bayley,</hi> 1663.</p>
+            <figure/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:41020:2"/>
+            <head>TO The Right Worſhipfool, Honourable, Right Royal, Noble, Puiſſant, moſt Excel<g ref="char:EOLhyphen"/>lent, Arrogant, and Notorious Warrier, Collonel, Captain, Lieutenant, Sergeant, Corporal, Musketeiro Bownce:</head>
+            <q>I dedicate theſe my ſtrange, happy, and unfor<g ref="char:EOLhyphen"/>tunate Adventures.</q>
+            <p>Terrible Sir,</p>
+            <p>
+               <seg rend="decorInit">I</seg> Dare not queſtion but that you have read the famous ſtory of our Brother <hi>Man-Devil,</hi> and ſhook hands with many of his Baboons, danc'd a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>otch Horn-pipe with his Dragons, &amp; taught <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>any of his Cat-a-mountains to play of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irginals; but all this is from the purpoſe, the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry I am to relate is more wonderful, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lmoſt) as true (if not altogether.) Were St. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orge</hi> now living, I could teach him twenty <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes to cut up a Dragon, and inſtruct fa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous <hi>Guy</hi> of <hi>Warwick,</hi> twice as many waies <hi>Carbonado</hi> a dun Cow; and with another <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ck that I have, he ſhould kill <hi>Colbrand</hi> the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t with a <hi>Poddgun;</hi> though Captain <hi>Drake</hi>
+               <pb facs="tcp:41020:3"/>
+was a brave fellow for the Sea, and could ſwim like a fiſh, yet 'tis well known to moſt of the valiant Dutch-men, that I can drink like a fiſh; and though he could bore a hole in the ſide of a ſhip, I can pierce one in the head of a Kilderkin, and in fire-work I have as much skill as he, my noſe ſhall make it good, which did but drop once into a barrel of Gun-pow<g ref="char:EOLhyphen"/>der, and it blew up a whole Leagure, but I muſt confeſs ſuch a fire-work hath coſt many a man his whole eſtate, and ſo it did mine; but what hath any man to do with my noſe, my name is <hi>Firedrake;</hi> nay I have an unmerciful name, for my name is called <hi>Water Firedrake,</hi> and all the world knows fire and water are un<g ref="char:EOLhyphen"/>merciful Elements, then ſure I think the Sea-Captains muſt confeſs mee the better Drake, i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reſpect I am as well for fire as water, and beleeve the man that kills mee were as goo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> run thorow fire and water, for he ſhall find<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mee then a <hi>Man-Drake;</hi> but leaving this lon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Epiſtle, I will proceed to the adventures <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> him</p>
+            <closer>
+               <signed>That is your moſt obedient Servant cut your throat, or your friend whenſoever you ſhall command him Walter Firedra<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:41020:3"/>
+            <head>The Knight Adventurer: OR, The Infamous and Abominable Hiſtory of that terrible, troubleſome, and vain<g ref="char:EOLhyphen"/>glorious Knight Sir <hi>FIREDRAKE.</hi>
+            </head>
+            <div n="1" type="adventure">
+               <head>The firſt Adventure.</head>
+               <p>
+                  <seg rend="decorInit">I</seg>T was about the year two thouſand eight hundred ninety ten, when <hi>Will Summers</hi> was Lord Mayor of <hi>Gol<g ref="char:EOLhyphen"/>ding-Lane,</hi> and <hi>Tarleton</hi> was his Sword-bearer, that I, and half a ſcore Knights more that ſhal be nameleſſe, becauſe I think they were never chriſtened<g ref="char:punc">▪</g> march'd forth the five and thirtieth day of <hi>December,</hi> to a dange<g ref="char:EOLhyphen"/>rous, diſmal, terrible and frightful deſert, known by the name of <hi>Black-Heath,</hi> where we met with a monſtrous Gyant, called by men that knew him <hi>Butcherino,</hi> with a great Club in's neck, and a long péece of Iron by his ſide at his girdle, on which he often whets his <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>loody knife, when he commits Lamb ſlaugh<g ref="char:EOLhyphen"/>ter,
+<pb n="2" facs="tcp:41020:4"/>
+and it ſéems he had béen upon ſome adven<g ref="char:EOLhyphen"/>ture; for hée had conquered ſome nine or ten wilde beaſts, which roared and bellowed as if it had béen thunder; their skins were all black, and each of them upon their mouſtrous heads two mighty horns, only one little wilde beaſt, with a white face; I think they call'd him <hi>Eſ<g ref="char:EOLhyphen"/>ſex,</hi> he had no horns, and when hée eat, his ſaws went awry, as if they had béen practizing to ſing Prick-ſong; but he had a very ſmall voice; I did no ſooner méet this aforeſaid Gyant <hi>Butcherino,</hi> but I came behinde him, and gave<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him ſuch a clap on the pate, that I made him ſhake his héels without muſick, which when a terrible wilde beaſt he had by him, that uſes t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> kéep his houſe, whoſe name was <hi>Balie,</hi> ſaw mé<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo confound his Maſter <hi>Butcherino,</hi> he flyes upon mée with open mouth, and catches hol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of one of my hinde quarters; and had it no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> béen for the Knights, I think he had torn mé<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſufficiently; away run all the wilde beaſts, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in concluſion, we did not take <hi>Butcherino</hi> life, but caſ'd him of a burthen of ſome fort<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pounds he had in his pocket; having thus t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ken away his Treaſure, wée left him bou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> hand and foot, and with little loſſe of bl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> came off fairly, with this adventure; ſo w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> went ſome ten miles further, and equal<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſhared the Treaſure of <hi>Butcherino</hi> amon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:41020:4"/>
+us, and this was the end of my brave and firſt valiant Adventure, and now I ſhall go for<g ref="char:EOLhyphen"/>ward to the next, if your patience will give mée audience.</p>
+            </div>
+            <div n="2" type="adventure">
+               <head>The ſecond Adventure ſheweth how hee and his Comrogues aſlaulted the thatched Caſtle of <hi>Farmar-ello,</hi> and how they eſcaped.</head>
+               <p>THe Treaſure being <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pent, which we by our valour and proweſſe purchaſed from <hi>Butcherino,</hi> in ſpight of <hi>Balls</hi> téeth; ere wée had walked ſome ten and twenty miles, we loſt a fair and well-beloved <hi>Damozella,</hi> whoſe name was <hi>Pecunia,</hi> which we before had ſtoln from <hi>Uſurero</hi> King of <hi>Manypence;</hi> the <hi>Maid</hi> being gone, we were all mightily diſmaid; yet méeting at the laſt with a Squire of low de<g ref="char:EOLhyphen"/>grée, whoſe name was <hi>Beggarillo,</hi> a ſervant to the Maunding Knight of the <hi>Clappdiſh,</hi> a ve<g ref="char:EOLhyphen"/>ry able Knight, and one that never goes with<g ref="char:EOLhyphen"/>out a thouſand péeces about him (though hée never wore purſe or pockets) who had alwaies a Rampant Monſter at his command, called <hi>Louſe-Crackero,</hi> and the Palfry he rid upon was <hi>Flea-bitten;</hi> the aforeſaid <hi>Squire</hi> (belong<g ref="char:EOLhyphen"/>ing to this <hi>Knight)</hi> ſaid, he could tell us ty<g ref="char:EOLhyphen"/>dings of our great loſſe the Lady <hi>Pecunia,</hi> which when we demanded, he declared to mée,
+<pb n="4" facs="tcp:41020:5"/>
+                  <hi>and my</hi> Com-Raskal, Rob-in High-way, <hi>the relation in this manner.</hi>
+               </p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="speech">
+                           <head>The Speech of Beggarillo to the Knights.</head>
+                           <p>
+                              <hi>YOu puiſſant</hi> Knights, <hi>and unbeloved</hi> War<g ref="char:EOLhyphen"/>riers, <hi>who ſcorn to fight on equal terms with any man, for you think he is not worthy to combate with you that is not an abler man (I mean in purſe g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>d</hi> Knights) <hi>for which cauſe you are alwaies ſuſpected to be noble and va<g ref="char:EOLhyphen"/>liant, becauſe you relieve the weaker ſide;</hi> Ar<g ref="char:EOLhyphen"/>thurs Knights <hi>were of the</hi> Order of the Round Table: The Knights of Malta, of the Order of the Red-Croſs, <hi>but you of the</hi> Diſorder of the high-way: <hi>You are the</hi> Knights <hi>that kéep men from many ill vices: A traveller that méets with you ſhall not be drunk that night, lye with his Hoſtis's daughter, or loſe his ma<g ref="char:EOLhyphen"/>ny at Tables: Likewiſe you eaſe him of many verations; for when he parts from you, he hath not a Croſſe about him; you have an excellent way to kéep him from ſwearing (I mean ſome oaths that many ſwear againſt your will in the</hi> Kingdome) <hi>which are theſe</hi> (by the croſs of this ſix-pence; <hi>or,</hi> I wiſh this ſilver were melt<g ref="char:EOLhyphen"/>ing in my guts) <hi>Then if he cannot ſwear theſe oaths, I am ſure the</hi> Tapſter <hi>will not give him leave to ſweat theſe oaths;</hi> would
+<pb n="5" facs="tcp:41020:5"/>
+this drink may be my poiſon; <hi>or,</hi> would this bread may choak mee<hi>: nay he muſt not dare to ſwear (ſo gently as a</hi> Weichman) by this Cheele. <hi>And now I have given you your noble titles, I will diſcover to you where your</hi> Damoſel <hi>the</hi> Lady Pecunia <hi>is, therefore I pray give good ear to mée.</hi>
+                           </p>
+                           <lg>
+                              <head>The Deſcription,</head>
+                              <l>Juſt at the foot of the next ſteepy hill,</l>
+                              <l>There lives a Giant (if it be thy will)</l>
+                              <l>Between 2 fields, one green, the other yellow,</l>
+                              <l>This Giant dwells, whoſe name is <hi>Farmarello,</hi>
+                              </l>
+                              <l>About his fields his ſervants all are plyant,</l>
+                              <l>And juſt before the Caſtle of this Giant</l>
+                              <l>There ſtands a <hi>Fort,</hi> which he doth call <hi>Diſpatch</hi>
+                              </l>
+                              <l>The <hi>walls</hi> are <hi>board,</hi> the <hi>roof</hi> is <hi>Engliſh thatch,</hi>
+                              </l>
+                              <l>Within this <hi>Fort</hi> he doth his <hi>Mad-men</hi> keep,</l>
+                              <l>One with a long <hi>Bro<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                                       <desc>••</desc>
+                                    </gap>
+                                 </hi> all the <hi>Fort</hi> doth ſweep;</l>
+                              <l>Two others do with cudgels, they call <hi>Flails,</hi>
+                              </l>
+                              <l>Lay on, as they had <hi>Nettles</hi> in their tails,</l>
+                              <l>Not on each other, 'tis the Giants Law,</l>
+                              <l>That they lye all day long a beating ſtraw,</l>
+                              <l>Which is no ſooner beaten, but there comes</l>
+                              <l>A rank of wild beaſts without Fifes or Drumms</l>
+                              <l>Doth bring in more (&amp; they are driven thence</l>
+                              <l>By names I nere read in my Accidence:)</l>
+                              <l>
+                                 <pb n="6" facs="tcp:41020:6"/>
+I think I can remember what they be;</l>
+                              <l>
+                                 <hi>Ball, Pie-ball, Villiar, Sorrel, Gee, Ho, Ree.</hi>
+                              </l>
+                              <l>Before the <hi>Fort,</hi> and at the righter hand</l>
+                              <l>Doth monſtrous <hi>Racks,</hi> and many <hi>horn-beaſts</hi> ſtand</l>
+                              <l>And in this <hi>Farmarello's</hi> houſe I wis</l>
+                              <l>Your <hi>Damozella</hi> fair <hi>Pecunia</hi> is,</l>
+                              <l>But have a care; you'l enter on your danger,</l>
+                              <l>Beware the beaſts that lye at <hi>Rack</hi> &amp; <hi>Manger.</hi>
+                              </l>
+                           </lg>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <p>
+                  <hi>Thus the Courteous Squire</hi> Beggarillo <hi>deli<g ref="char:EOLhyphen"/>vered to us where we might atchieve again the beauty of the fair</hi> Pecunia <hi>(which in Engliſh is called</hi> Madam Mony) <hi>ere we got to the foot of the hill it was midnight, and coming néer the houſe of this maſſy Gyant</hi> Farmarello; <hi>we heard the roaring and mooing of his beaſts, the fluttering of his Eagles, the mewing of his houſe-trap, the ſworting of his ſervants, the ſuéezing of his Maidens; no light appeared in the houſe, and (a Pox take them) I heard two of</hi> Balls <hi>kindred grumbling of Logick together; but they were in two little</hi> Block-houſes, <hi>which in Engliſh you call</hi> Kennels, <hi>I am ſure every ſtraw appeared unto mée like a péece of Ordnance (I cry you mercy, I have a little forgot my ſelf) I could not ſée indéed, 'cauſe it was midnight, but I am ſure I thought I ſaw the ſtraws; well, for all this, what we could not do by violence, we did by pollicy, ſo we put</hi>
+                  <pb n="7" facs="tcp:41020:6"/>
+                  <hi>our unhappy Squire in at</hi> Farmarello's <hi>win<g ref="char:EOLhyphen"/>dow, where he moſt ſoftly (as he hath a rare Art that way) crept up to th' Chamber where the Gyant lay ſnorting by his</hi> Gyanteſs Dou<g ref="char:EOLhyphen"/>ſabella; <hi>and putting his hand into the Gyant's pocket, hee took the keyes outs found out the Priſon where</hi> Pecunia <hi>was lodg'd, opens the window, and throws her with the reſt of her kindred Mris.</hi> Argent, <hi>and Mris.</hi> Aurum <hi>out into our Arms, for they had béen kept in a great deal of ſlavery, and put into Canvaſſe-baggs, inſtead of Black-baggs: When our Squire had thus releaſed the Ladies, as he was com<g ref="char:EOLhyphen"/>ing down ſoftly</hi> Farmarello's <hi>ſtairs, hee fell down, and broke his legg (and broke the neck of a Proverb too, which ſaies, hee that goes foftly, goes ſafely) off went a</hi> Canon <hi>(ſhot by</hi> Farmarello) <hi>up roſe the</hi> Kitchen-wench <hi>with the</hi> Spit, Squire Tom <hi>with a</hi> Ladle, Hob Car<g ref="char:EOLhyphen"/>ter <hi>with a</hi> Whip, Tim Thraſhwell <hi>with a</hi> Flayl, Douſabella <hi>with a</hi> Diſtaff, <hi>out flew</hi> Ball <hi>and his</hi> Nephew <hi>with</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>loggs <hi>at their Arſes, away run we with the Ladies at our Arſes; they cryed, ſtop Theeves, wee cryed run Knights; but</hi> Rob-in High-way <hi>miſtaking the</hi> Road, <hi>run himſelf into a</hi> Mill-pond; <hi>one of</hi> Farmare<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lo's <hi>ſervants being betwixt ſléeping and waking, in earneſtneſſe to apprehend him, fell after him, at laſt all the reſt of us eſcaped,</hi>
+                  <pb n="8" facs="tcp:41020:7"/>
+but went all ſeveral wayes, onely I kept the <hi>Road</hi> ſome twenty miles together, and at the next Town cauſed my Lady <hi>Pecunia</hi> to buy mée a horſe to follow adventures; the next chapter you ſhall ſée an end of mée.</p>
+            </div>
+            <div n="3" type="adventure">
+               <head>
+                  <hi>My laſt Adventure, wherein is declared the purſuit of the Gyant <hi>Farmarello,</hi> how hee ſent forth his men of War: and how ſtrangely I was taken Priſoner.</hi>
+               </head>
+               <p>AFter this our ſtrange eſcape from the diſmal Gyant <hi>Farmarello,</hi> which made us all diſperſed, I with my Lady <hi>Pecunia</hi> by my ſide, continued on the Road until I came unto a Town (which is now out of my remem<g ref="char:EOLhyphen"/>brance there at my friend <hi>Tapſterino's Caſtle,</hi> my Lady and I had entertainment, where I bought mee an horſe of his Squire <hi>Oſtlero,</hi> but when I had ſollaced my ſelf all night with my Lady <hi>Pecunia,</hi> I reſolved the next day to ride upon more Adventures, but ſo ſoon as ever I was mounted on my Palfry, I had tydings brought mee by <hi>Beggarillo,</hi> that one of <hi>Farmarello's</hi> Knights, that was a <hi>Dutch-man,</hi> whoſe name was <hi>Hue an cry, Van Hang an draw,</hi> with another Knight and an Engliſh man, whoſe name was <hi>Conſtabello,</hi> with a band of armed men called <hi>Officero's,</hi> that fol<g ref="char:EOLhyphen"/>lowed
+<pb n="9" facs="tcp:41020:7"/>
+to ſurprize us for the Ladies, which the Squire that broke his legg confeſſed I had car<g ref="char:EOLhyphen"/>ried away, and withall gave him notice of all our names; I no ſooner heard this news, but the Gyants Knights were in ſight of mee, up<g ref="char:EOLhyphen"/>on that I ſet ſpurres to my Palfry, and fled from them, for I knew there was no contend<g ref="char:EOLhyphen"/>ing againſt ſo many able Knights; ſo away rid I, they after mee crying, ſtop theef: Vpon theſe words, a Squire that met mee, offered to lay hold on my Bridle, for which cauſe I knock'd him down, and ſtill continued my ſpeed; after that, two more met mee, and would have ſtopped mee, had I not rid over one, and knocked down the other: Thus I perceiving how generally envious the Coun<g ref="char:EOLhyphen"/>try was againſt mee (becauſe prevention is the heart of pollicy) I reſolv'd to knock down e<g ref="char:EOLhyphen"/>very man I met or over-took, before they ſhould have warning to apprehend mee; or af<g ref="char:EOLhyphen"/>ter I was paſt them, to tell the Gyants Knights which way I code; a man would have thought this had been a pretty peece of pollicy, but it happened to be my ruine, for after I had gotten the ſtart of the purſuers ſome three or four miles, I might have turned which way I would, and never have been diſcovered; for I did not meet one man in the riding a dozen miles together; at laſt who ſhould I overtake
+<pb n="10" facs="tcp:41020:8"/>
+but a tall fellow in a Canvaſſe Frock, with a Whip in his hand driving of Palfryes, that drew a Cart or Wagon after them; and for fear this fellow ſhould ſurprize mee (which I dare ſwear ne're harboured a thought of me) I came behinde him, and with my French Club, call'd <hi>Battoone,</hi> I aim'd to ſtrike him full on the head, and afterward to turn out of the Road, but it happened by being too eager, I miſſed his head, and he received the blow on his ſhoulder<g ref="char:punc">▪</g> but hee feeling the ſmart of ſo ſudden and violent a ſtroak, as ſuddenly turns about with his Whip that way the blow came, and by ſtrange chance twined his Whip-cord ſome four or five times about my neck, and ſnatching haſtily his Whip again, to give mee the ſecond laſh, hee drew mee off my Palfry, and in the middle of the high-way beat mee, till the Knights that rid in purfuit of mee came and attached mee for the Lady <hi>Pecunia,</hi> whom I offered to them, but they would not receive her, ſo I and my Lady was bound hand and foot, and brought to <hi>London,</hi> the place from whence I firſt ſet forth; there was I laid in a Caſtle called by name <hi>Newgate,</hi> where I found many more wandring Knights; amongſt them, who ſhould I meet with but <hi>Rob-in High-way,</hi> hee that upon the eſcape fled into the <hi>Mill-pond</hi> (I ever thought hee
+<pb n="11" facs="tcp:41020:8"/>
+was not born to be drown'd) after ſome cer<g ref="char:EOLhyphen"/>tain daies wee were condemned to be rack'd to death on a thrée legg'd horſe, but my Lady <hi>Pecunia,</hi> becauſe ſhee ſuffered her ſelf ſo eaſily to be taken away, was in ſhameful manner pluck'd limb from limb, and divided by the Keeper of the Caſtle, and his Officers.</p>
+               <l>Thus it appear'd by cruel fate,</l>
+               <l>My adventrous Warrant was out of date;</l>
+               <l>All you that go on ſuch Adventures,</l>
+               <l>Let the Devil make you better Indentures.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>
+               <hi>Imprimatur</hi>
+            </p>
+            <closer>
+               <signed>Tho. Wykes.</signed>
+            </closer>
+            <pb facs="tcp:41020:9"/>
+            <trailer>
+               <figure/>
+            </trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
